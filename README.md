@@ -4,7 +4,9 @@ Eat-da-Boyga is a rather useless app created to demonstrate MVC and ORM design w
 
 ## Functionality
 
-Add a burger by typing in the provided text box and clicking the Make Boyga button. Burgers that have yet to be eaten are shown on the left, and burgers that have been eaten are shown on the right. By clicking a Nom Nom! button next to the burgers on the left with virtually eat the burger and add it to the right side.
+Add a burger by typing in the provided text box and clicking the Make Boyga button. Burgers that have yet to be eaten are shown on the left, and burgers that have been eaten are shown on the right. By clicking a Nom Nom! button next to the burgers on the left will virtually eat the burger and add it to the right side.
+
+Heroku Deployment: https://young-oasis-83017.herokuapp.com/
 
 ![Eat-da-Boyga](https://github.com/Milleniyum/burger/blob/master/public/images/eat_da_burger.gif)
 
